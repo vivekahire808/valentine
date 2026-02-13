@@ -15,7 +15,7 @@ export default function Page() {
     const phrases = [
       "नाही रे!",
       "पक्का का?",
-      "खरंच पक्का का?",
+      
       
       
       "तुझ्या नाकावरचा राग खूप क्युट दिसतो 😌💖",
@@ -45,7 +45,7 @@ export default function Page() {
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
           <div className="text-4xl md:text-6xl font-bold my-4">
-            Ok Yayyyyy,चल घे, special kiss 😜💋!!!
+            Love you Aaru 😌💖,चल घे special kiss 😜💋!!!
           </div>
         </>
       ) : (
